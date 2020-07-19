@@ -5,4 +5,7 @@ Data Types
 Operations
 Data Structure
 
+Python NLP
+SpaCy NLP
+
 Overall story context (Q: custom variation?)
