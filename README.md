@@ -18,4 +18,4 @@ data basics
 
 # Lessons
 
-1. 
+1. hello world, hello dungeon
