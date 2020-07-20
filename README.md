@@ -9,3 +9,13 @@ Python NLP
 SpaCy NLP
 
 Overall story context (Q: custom variation?)
+
+files, 
+file types,
+data bases
+
+...
+
+# Lessons
+
+1. 
