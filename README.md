@@ -19,3 +19,5 @@ data basics
 # Lessons
 
 1. hello world, hello dungeon
+
+2. string slicing
