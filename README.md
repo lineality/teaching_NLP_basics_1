@@ -1,23 +1,18 @@
 # teaching_NLP_basics_1
 Teaching Python NLP and Data Structure Basics using a dugeon-game study as a concrete context for cumulative use.
 
-Data Types
-Operations
-Data Structure
+Stroy
 
-Python NLP
-SpaCy NLP
-
-Overall story context (Q: custom variation?)
-
-files, 
-file types,
-data basics
-
-...
-
-# Lessons
+# Macro Lessons
 
 1. hello world, hello dungeon
+ 
+2. "slicing" [:] string slicing, list slicing
+ 
+3. list comprehensions
 
-2. string slicing
+4. 
+
+4. functions, lambdas, command line, notebooks
+
+
