@@ -11,8 +11,9 @@ Stroy
  
 3. list comprehensions
 
-4. 
-
 4. functions, lambdas, command line, notebooks
+ 
+5. reading files and saving your files:
+
 
 
