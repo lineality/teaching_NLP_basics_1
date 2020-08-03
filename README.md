@@ -16,4 +16,7 @@ Stroy
 5. reading files and saving your files:
 
 
+....
 
+instructional interface options...
+text-based or RPG-maker type story parallel to a colab/repl
