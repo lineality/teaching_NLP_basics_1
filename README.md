@@ -20,3 +20,18 @@ Stroy
 
 instructional interface options...
 text-based or RPG-maker type story parallel to a colab/repl
+
+...
+
+content map
+skill-tree
+
+...
+
+ReadMe.txt Adventures! www.readmeadventures.com
+
+paired: 
+ReadMe.txt + Day_x.py
+
+Stories of stand-alone scenes, learning and using new skills.
+
