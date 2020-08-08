@@ -14,16 +14,14 @@ os.system('cls' if os.name == 'nt' else 'clear')
 readme_text = '''
 Scene 1: Find Your Friends
 
+
 Instructions:
 1. Open Terminal
-2. Get file
-    windows
-    wget/curl
-3. Run file
-    Command: python3 scene_1.py
+2. Get file       wget https://raw.githubusercontent.com/lineality/teaching_NLP_basics_1/master/ReadMe_Adventures/test_demo_1/Windows_OS/scene_1.py
+3. Run file       Command: python3 scene_1.py
 
 
-
+(Optional)
 Tips:
 1. When given a choice or a question,
 type in your answer and hit return.
@@ -55,14 +53,16 @@ inn_guest_log_text = '''
 (*loyal customer)
 - Old Martha McSally
 Items Purchased:
-- 10 gallons of fortified wine
-- one half-penny worth of bread
+- capon (stuffed rooster)
+- sauce
+- fortified wine, two gallons
+- one crouton of Bread
 
 (seasonal traveler)
 - Captn. Wilda Wooster
 Items Purchased:
 - bag of potatoes
-- 1 live chicken
+- 1 *live rooster
 
 (Those Meddlesome Kids)
 - Friend 1: Baldwin
@@ -76,10 +76,14 @@ Items Purchased:
 - 1 book of dubious maps for tourists
 
 (regulars)
-- Four men in Kendle Green (difficult to see)
+- Four men in Kendal Green (difficult to see)
 Items Purchased:
 - fish'n chips x 4
+- coffee x 8
+- 2 books of crossword puzzles
+- a dish towel
 '''
+
 # create, write-to, & save .txt file
 file_to_create = open("inn_guest_log.txt", "w")
 file_to_create.write(inn_guest_log_text)
@@ -93,8 +97,9 @@ file_to_read = open("inn_guest_log.txt", "r")
 ### The Action!
 ################
 
-print("scene")
+print(scene)
 
+# Main Story
 print('''
 \nYou are in The Mos Inn.
 You are standing at the bar.
@@ -103,6 +108,12 @@ The bartender eyes you suspiciously.
 "We don't allow droids in here...", the barman says.
 "Not usually...but...who are you with?
 Who are your friends?"
+''')
+
+# Tip
+print('''
+(Tip: Since it is lying on the bar-counter in front of you,
+you can 'access' the inn's guest-register. Check your file directory again.)
 ''')
 
 friends_dict = {
