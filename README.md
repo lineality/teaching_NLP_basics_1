@@ -35,3 +35,18 @@ ReadMe.txt + Day_x.py
 
 Stories of stand-alone scenes, learning and using new skills.
 
+
+platforms:
+- linux
+- macOS
+- BSD
+- chromeOS
+- iOS
+- android
+- DOS
+- windows
+- fushia
+
+
+
+
