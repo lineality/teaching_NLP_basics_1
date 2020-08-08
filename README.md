@@ -1,3 +1,6 @@
+flexibity for various curricula
+
+
 # teaching_NLP_basics_1
 Teaching Python NLP and Data Structure Basics using a dugeon-game study as a concrete context for cumulative use.
 
