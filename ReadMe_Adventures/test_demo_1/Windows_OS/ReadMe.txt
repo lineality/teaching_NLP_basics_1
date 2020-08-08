@@ -13,14 +13,14 @@ Tips:
 1. When given a choice or a question,
 type in your answer and hit return.
 
-2. Since it is lying on the bar-counter in front of you,
-you can 'access' the inn's guest-register.
-(This will help you to answer
-the red-nosed innkeeper's question.)
-
-3. Running the .py file will create new files
+2. Running the .py file will create new files
 that you can use during the scene. Look for those files
 the directory (folder) that your command terminal is open in.
 (This file may be updated as well.)
 
+3. Since it is lying on the bar-counter in front of you,
+you can 'access' the inn's guest-register.
+Check your file directory again.
+(This will help you to answer
+the red-nosed innkeeper's question.)
 
