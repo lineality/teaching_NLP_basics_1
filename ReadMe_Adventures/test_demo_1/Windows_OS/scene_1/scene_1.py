@@ -10,7 +10,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 ### Create Files
 #################
 
-# create .txt file of inn's guest log for user:
+# create ReadMe.txt file:
 readme_text = '''
 Scene 1: Find Your Friends
 
@@ -37,15 +37,25 @@ Check your file directory again.
 (This will help you to answer
 the red-nosed innkeeper's question.)
 
+4. To view the txt file you can open it in any 'text editor,'
+probably clicking on it will open it in a default application.
+To open it in python:
+put next 3 commands in a terminal:
+python3
+file_to_read = open("inn_guest_log.txt", "r")
+print(file_to_read.read())
+
+
 '''
 
 # create, write-to, & save .txt file
 file_to_create = open("ReadMe.txt", "w")
 file_to_create.write(readme_text)
 file_to_create.close()
-#open, read, & print the file
-file_to_read = open("ReadMe.txt", "r")
-#print(file_to_read.read())
+
+# #open, read, & print the file
+# file_to_read = open("ReadMe.txt", "r")
+# print(file_to_read.read())
 
 
 # create .txt file of inn's guest log for user:
@@ -134,7 +144,7 @@ responses = ["Who?",
              "What?",
              "I'm sorry, my mind was wondering. What was that again?",
              "How would you spell that...doesn't sound familiar...",
-             "Ha ha hah ahahahhahahhh. that's a good one.",
+             "Ha ha hah ahahahhahahhh, that's a good one.",
              "Ok, who are your friends, really?"
              ]
 
@@ -161,3 +171,5 @@ Here, their pizza just game out of the oven
 you might as well bring it with you.
 Their tables' just back there."
 ''')
+
+print("\n\nEnd of Scene 1")
