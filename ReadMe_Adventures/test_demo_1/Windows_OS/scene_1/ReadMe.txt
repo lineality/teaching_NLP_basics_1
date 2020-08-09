@@ -4,7 +4,7 @@ Scene 1: Find Your Friends
 
 Instructions:
 1. Open Terminal
-2. Get file       wget https://raw.githubusercontent.com/lineality/teaching_NLP_basics_1/master/ReadMe_Adventures/test_demo_1/Windows_OS/scene_1.py
+2. Get file       wget https://raw.githubusercontent.com/lineality/teaching_NLP_basics_1/master/ReadMe_Adventures/test_demo_1/Windows_OS/scene_1/scene_1.py
 3. Run file       Command: python3 scene_1.py
 
 
@@ -23,4 +23,13 @@ you can 'access' the inn's guest-register.
 Check your file directory again.
 (This will help you to answer
 the red-nosed innkeeper's question.)
+
+4. To view the txt file you can open it in any 'text editor,'
+probably clicking on it will open it in a default application.
+To open it in python:
+put next 3 commands in a terminal:
+python3
+file_to_read = open("inn_guest_log.txt", "r")
+print(file_to_read.read())
+
 
