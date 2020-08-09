@@ -17,7 +17,7 @@ Scene 1: Find Your Friends
 
 Instructions:
 1. Open Terminal
-2. Get file       wget https://raw.githubusercontent.com/lineality/teaching_NLP_basics_1/master/ReadMe_Adventures/test_demo_1/Windows_OS/scene_1.py
+2. Get file       wget https://raw.githubusercontent.com/lineality/teaching_NLP_basics_1/master/ReadMe_Adventures/test_demo_1/Windows_OS/scene_1/scene_1.py
 3. Run file       Command: python3 scene_1.py
 
 

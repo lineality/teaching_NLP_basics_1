@@ -15,7 +15,7 @@ Scene 2: Witch Map
 
 Instructions:
 1. run .py in terminal
-wget https://raw.githubusercontent.com/lineality/teaching_NLP_basics_1/master/ReadMe_Adventures/test_demo_1/Windows_OS/scene_2.py
+wget https://raw.githubusercontent.com/lineality/teaching_NLP_basics_1/master/ReadMe_Adventures/test_demo_1/Windows_OS/scene_2/scene_2.py
 
 
 (Optional)
