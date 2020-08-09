@@ -1,3 +1,12 @@
+
+# ReadMe Adventures
+
+## Scenes
+
+
+
+draft notes:
+
 flexibity for various curricula
 
 
