@@ -1,19 +1,13 @@
 
-# ReadMe Adventures
-
-## Scenes
-
+# Notes For ReadMe Adventures
 
 
 draft notes:
 
 flexibity for various curricula
 
-
 # teaching_NLP_basics_1
 Teaching Python NLP and Data Structure Basics using a dugeon-game study as a concrete context for cumulative use.
-
-Stroy
 
 # Macro Lessons
 
@@ -60,5 +54,9 @@ platforms:
 - fushia
 
 
+Self organize team/Group lessons
 
+self-directed dungeons
+
+pipenv based jupyter environments
 
