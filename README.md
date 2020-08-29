@@ -30,7 +30,16 @@ text-based or RPG-maker type story parallel to a colab/repl
 ...
 
 content map
-skill-tree
+skill-tree (if initial)
+for python-based NLP starters
+- using terminal
+- using directories
+- using files (make, open, read, print)
+- varibles 
+- slicing
+- len()
+
+
 
 ...
 
