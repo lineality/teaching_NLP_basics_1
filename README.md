@@ -35,9 +35,10 @@ for python-based NLP starters
 - using terminal
 - using directories
 - using files (make, open, read, print)
-- varibles 
-- slicing
+- varibles (filling, retyping, mutibility)
+- slicing[:]
 - len()
+- replace()
 
 
 
