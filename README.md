@@ -34,12 +34,13 @@ skill-tree (if initial)
 for python-based NLP starters
 - using terminal
 - using directories
+  - to do: fix file path lesson notes
 - using files (make, open, read, print)
 - varibles (filling, retyping, mutibility)
 - slicing[:]
 - len()
 - replace()
-- 
+
 
 
 ...
