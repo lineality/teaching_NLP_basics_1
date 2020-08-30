@@ -35,7 +35,15 @@ for python-based NLP starters
 - using terminal
 - using directories
   - to do: fix file path lesson notes
-- using files (make, open, read, print)
+- using files
+  -
+  - .open()
+  - .close()
+  - .read()
+  - .readlines()
+  
+  - (make, open, read (reset cursor with .seek(0), print), close file with .close() )
+  
 - varibles (filling, retyping, mutibility)
 - slicing[:]
 - len()
