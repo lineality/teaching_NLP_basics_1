@@ -41,6 +41,9 @@ for python-based NLP starters
 - len()
 - replace()
 
+text misc:
+- 'escape characters'
+- \n
 
 
 ...
