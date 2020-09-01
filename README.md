@@ -84,3 +84,70 @@ pipenv based jupyter environments
 
 ...
 Group lessons, designed around SCRUM...
+
+...
+
+notes:
+
+content map
+skill-tree (if initial)
+for python-based NLP starters
+- using terminal
+- using directories
+  - to do: fix file path lesson notes
+- using files
+  - .open("file", mode) https://www.w3schools.com/python/ref_func_open.asp
+Modes: e.g. r / rt / rb  
+"r" - Read - Default value. Opens a file for reading, error if the file does not exist
+"a" - Append - Opens a file for appending, creates the file if it does not exist
+"w" - Write - Opens a file for writing, creates the file if it does not exist
+
+"x" - Create - Creates the specified file, returns an error if the file exist
+In addition you can specify if the file should be handled as binary or text mode
+e.g rb / rt / w+(overwrites existing file)
+"t" - Text - Default value. Text mode
+"b" - Binary - Binary mode (e.g. images)
+"+" - reading and writing
+
+  - .close()
+  - .read() 
+
+  - .readlines()
+- delete file... os.remove("demofile.txt") 
+  
+  - (make, open, read (reset cursor with .seek(0), print), close file with .close() )
+  
+- variables (filling, retyping, mutibility)
+slicing[:]
+len()
+.split() / .split(",")
+		e.g. (prints individuals words)
+		for line in list_of_lines:
+			print(line.split()[0]
+.replace(old, new)
+
+text misc:
+- 'escape characters'
+- \n
+
+
+
+quest:
+#. replace characters to make more readable
+#. print words only that start with a symbol character
+
+...
+
+context what??? awsome
+"context manager"
+# this will automatically close the file afterwards...neat.
+with open('file.txt', 'r') as thing_to_open:
+	storage_variable = thing_to_open.readlines()
+
+
+....
+
+pdf?
+
+...
+
