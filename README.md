@@ -1,7 +1,6 @@
 
 # Notes For ReadMe Adventures
 
-
 draft notes:
 
 flexibity for various curricula
@@ -20,7 +19,6 @@ Teaching Python NLP and Data Structure Basics using a dugeon-game study as a con
 4. functions, lambdas, command line, notebooks
  
 5. reading files and saving your files:
-
 
 ....
 
@@ -147,7 +145,7 @@ with open('file.txt', 'r') as thing_to_open:
 
 ....
 
-pdf?
+pdf??
 
 ...
 
