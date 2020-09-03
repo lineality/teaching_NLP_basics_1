@@ -150,3 +150,9 @@ pdf??
 ...
 
 character choice options for group lessons...hmm...
+
+maybe an automated cutup of sections of puzzles?
+(this could acomodate any number of players...
+e.g. a group of andoroid, whatever that number is, 
+is found outside or inside the dungeon hiding)
+etc
