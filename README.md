@@ -156,3 +156,10 @@ maybe an automated cutup of sections of puzzles?
 e.g. a group of andoroid, whatever that number is, 
 is found outside or inside the dungeon hiding)
 etc
+
+...
+
+
+cut-ups of lessons...
+
+And inner prompt to open a jupyter pipenv using lock file created by .py... maybe that can work...
