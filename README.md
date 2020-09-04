@@ -163,3 +163,10 @@ etc
 cut-ups of lessons...
 
 And inner prompt to open a jupyter pipenv using lock file created by .py... maybe that can work...
+
+
+make a piplock
+new terminal:
+CD
+run a ...create?
+pipeven run jupyter lab
