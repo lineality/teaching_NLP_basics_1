@@ -63,6 +63,7 @@ Stories of stand-alone scenes, learning and using new skills.
 
 
 platforms:
+(for spaCy NLTK? maybe only x86 works?)
 - linux
 - macOS
 - BSD
