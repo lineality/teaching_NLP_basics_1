@@ -171,3 +171,7 @@ new terminal:
 CD
 run a ...create?
 pipeven run jupyter lab
+
+...
+
+SCRUM curriculum and team learning
