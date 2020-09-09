@@ -178,3 +178,5 @@ SCRUM curriculum and team learning
 
 piece by piece...building up to a scrum model...
 maybe showing the need through failed incursions?
+
+Q: use standard scrum terms? (leaning towards yes)
