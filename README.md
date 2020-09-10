@@ -27,6 +27,12 @@ text-based or RPG-maker type story parallel to a colab/repl
 
 ...
 
+setting:
+variation on time period between richard ii and henry the forth
+
+
+...
+
 content map
 skill-tree (if initial)
 for python-based NLP starters
