@@ -188,3 +188,13 @@ maybe showing the need through failed incursions?
 Q: use standard scrum terms? (leaning towards yes)
 
 Specific breakdown of SCRUM Learning Teams:
+
+
+...
+
+Dungeon Design...
+- optional multi character
+- scrum teams
+- likely packages/jupyter needed...(or colab...)
+
+
