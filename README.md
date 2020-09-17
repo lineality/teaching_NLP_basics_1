@@ -215,3 +215,7 @@ for each:
 file close...
 add to background functions...
 maybe leave out of first activity?
+
+
+...pipenv.../colab?
+
