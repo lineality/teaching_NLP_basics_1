@@ -219,3 +219,4 @@ maybe leave out of first activity?
 
 ...pipenv.../colab?
 
+...Notes files outline of NLP vs. content map? planning...
