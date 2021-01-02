@@ -4,10 +4,9 @@ see deployed site
 readmeadventures.com
 
 
-
 https://docs.google.com/document/d/19v8jMx60QTWfyRkp6VThJeiSfXNWqadB50FQCzaAOVM/edit?usp=sharing
 
-draft notes:
+Draft notes:
 
 flexibity for various curricula
 
