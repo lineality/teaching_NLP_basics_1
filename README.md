@@ -6,7 +6,7 @@ readmeadventures.com
 
 https://docs.google.com/document/d/19v8jMx60QTWfyRkp6VThJeiSfXNWqadB50FQCzaAOVM/edit?usp=sharing
 
-Draft notes:
+Draft Notes:
 
 flexibity for various curricula
 
