@@ -14,7 +14,7 @@ Teaching Python NLP and Data Structure Basics using a dugeon-game study as a con
 
 # Macro Lessons
 
-1. hello world, hello dungeon
+1. hello world, hello dungeon.
  
 2. "slicing" [:] string slicing, list slicing
  
